@@ -4,4 +4,4 @@
 
 ## Description
 
-homepage for engineering communications assignmentff
+homepage for engineering communications assignment
